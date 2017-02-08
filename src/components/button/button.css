@@ -1,0 +1,6 @@
+:local .btnSend{
+    font-family: Arial;
+    color: red;
+    border: 0;
+    background: lightgray;
+}

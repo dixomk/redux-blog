@@ -1,0 +1,11 @@
+:local .postContainer{
+    margin: 15px 20px;
+}
+:local .postHeader{
+    font-family: Arial;
+}
+:local .postContent{
+    min-height: 50px;
+    padding: 20px;
+    background: rgba(250, 250, 250, .5);
+}
